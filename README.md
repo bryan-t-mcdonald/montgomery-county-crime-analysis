@@ -14,7 +14,7 @@ Examined over **500,000 raw government incident records** from Montgomery County
 
 ## How I Prepared the Data
 Using **Microsoft Excel**, the raw dataset was cleaned and transformed before visual analysis:
-* **Deduplication & Null Handling:** Removed administrative noise and handled missing geographical and timestamp attributes.
+* **Handling of Noisy & Null Data:** Removed administrative noise and handled missing geographical and timestamp attributes.
 * **Handled Multi-Offense Entries:** Kept duplicate Incident IDs intact so that events involving multiple offenses (e.g., vandalism and theft happening in one call) were fully counted at the offense level.
 * **Date Attribute Extraction:** Extracted custom time fields (`Year`, `Month`, `Day of Week`, `Peak Season`) to analyze trends over time.
 
