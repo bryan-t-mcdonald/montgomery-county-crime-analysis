@@ -6,7 +6,7 @@ Examined over **500,000 raw government incident records** from Montgomery County
 ---
 
 ## Project Resources
-* ** Live Interactive Dashboard:** [View on Tableau Public]([https://public.tableau.com/app/profile/bryan.mcdonald/vizzes](https://public.tableau.com/views/MontgomeryCountyMDCrimeIncidentAnalysis2017-2025/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
+* ** Live Interactive Dashboard:** [View on Tableau Public]([https://public.tableau.com/views/MontgomeryCountyMDCrimeIncidentAnalysis2017-2025/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
 * ** Cleaned & Raw Datasets:** [Download Compressed Datasets via GitHub Releases](https://github.com/bryan-t-mcdonald/montgomery-county-crime-analysis/releases/tag/v1.0.0)
 * ** Original Data Source:** [Montgomery County Open Data Portal](https://data.montgomerycountymd.gov/Public-Safety/Crime/icn6-v9z3/about_data)
 
